@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d793d72-418d-4024-af43-ebc834cd83a3": {
+      "ProjectGuid": "2d793d72-418d-4024-af43-ebc834cd83a3",
+      "DisplayName": "MovieRecommender",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
